@@ -59,7 +59,7 @@ Samples labeled C have .75A+.25B, and samples labeled D have .75B+.25A.
 \section{The proboscis plot}
 
 For Figure 2 of Shippy et al., \textit{Using RNA sample titrations} (Nat Biotech,
-24(9):1123-1131, Sep 2006)}, genes differentially expressed between
+24(9):1123-1131, Sep 2006), genes differentially expressed between
 samples A and B using $t$ tests at $p=0.001$ are identified.  If,
 for such genes, the A samples are up-regulated relative to the B samples,
 then a self-consistent monotone titration (SCMT) is declared if the C 
