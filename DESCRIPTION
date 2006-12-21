@@ -3,7 +3,7 @@ Title: Experimental Data Package: MAQCsubset
 Version: 1.0.1
 Author: VJ Carey
 Description: Data Package automatically created on Sun Nov 19 15:59:29 2006.
-Maintainer: VJ Carey, <stvjc@channing.harvard.edu>
+Maintainer: VJ Carey <stvjc@channing.harvard.edu>
 Depends: Biobase
 License:  The Artistic License, Version 2.0
 biocViews: ExperimentData
