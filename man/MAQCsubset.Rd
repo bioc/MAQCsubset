@@ -3,6 +3,7 @@
 \alias{afxsubRMAES}
 \alias{afxsubRMA}
 \alias{afxsub}
+\alias{MAQCsubset}
 \title{Experimental Data Package: MAQCsubset}
 \description{selected data from the MAQC project (Nature Biotechnology, Sept. 2006)}
 \usage{
