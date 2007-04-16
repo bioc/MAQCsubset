@@ -6,7 +6,9 @@
 \title{Experimental Data Package: MAQCsubset}
 \description{selected data from the MAQC project (Nature Biotechnology, Sept. 2006)}
 \usage{
-data(MAQCsubset)
+data(afxsubRMAES)
+data(afxsubRMA)
+data(afxsub)
 }
 \format{
   The format is:
@@ -19,11 +21,12 @@ data(MAQCsubset)
 }
 
 \note{\code{afxsubRMA} is an \code{exprSet} (deprecated)
-and \code{afxsub} is an \code{AffyBatch}.
+and \code{afxsub} is an \code{AffyBatch}.  \code{afxsubRMAES}
+is a proper ExpressionSet instance.
 }
 
 \examples{
-  data(MAQCsubset)
+  data(afxsubRMAES)
 }
 \keyword{datasets}
 
