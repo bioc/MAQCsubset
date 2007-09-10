@@ -11,9 +11,9 @@ data(gehMAQCsubDef)
 \details{
 \code{gehSubRaw} is a \code{codelink::Codelink} instance based on reading
 the raw GEO files:
-"GSM123122_GEH_1_A1.TXT" "GSM123123_GEH_1_A2.TXT" "GSM123127_GEH_1_B1.TXT"
-"GSM123128_GEH_1_B2.TXT" "GSM123132_GEH_1_C1.TXT" "GSM123133_GEH_1_C2.TXT"
-"GSM123137_GEH_1_D1.TXT" "GSM123138_GEH_1_D2.TXT"
+"GSM123122\_GEH\_1\_A1.TXT" "GSM123123\_GEH\_1\_A2.TXT" "GSM123127\_GEH\_1\_B1.TXT"
+"GSM123128\_GEH\_1\_B2.TXT" "GSM123132\_GEH\_1\_C1.TXT" "GSM123133\_GEH\_1\_C2.TXT"
+"GSM123137\_GEH\_1\_D1.TXT" "GSM123138\_GEH\_1\_D2.TXT"
 
 \code{gehMAQCsubDef} is an \code{ExpressionSet} instance based on
 default background correction and normalization of the \code{codelink}

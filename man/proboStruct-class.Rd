@@ -1,6 +1,9 @@
 \name{proboStruct-class}
 \docType{class}
 \alias{proboStruct-class}
+\alias{lines,proboStruct-method}
+\alias{plot,proboStruct-method}
+\alias{show,proboStruct-method}
 
 \title{Class "proboStruct" }
 \description{	 structure for managing proboscis plot data }

@@ -7,7 +7,7 @@
 proboscis(es, site=1, ABp=0.001, CDp=0.01, mmrad=100)
 }
 \arguments{
-  \item{es}{ \code{\link[Biobase:ExpressionSet-class]{ExpressionSet} instance with MAQC assay results}
+  \item{es}{ \code{\link[Biobase:ExpressionSet-class]{ExpressionSet}} instance with MAQC assay results}
   \item{site}{ numeric code -- site to be assessed}
   \item{ABp}{ ABp -- p-value threshold to declare concentration of gene in
 sample A to be different from ehe concentration in sample B}
