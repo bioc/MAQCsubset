@@ -2,7 +2,6 @@
 %\VignetteDepends{}
 %\VignetteKeywords{Multiplatform expression analysis}
 %\VignettePackage{MAQCsubset}
-\documentclass[]{article}
 
 
 %
