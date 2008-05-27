@@ -2,6 +2,7 @@
 \docType{data}
 \alias{afxsubRMAES}
 \alias{afxsubRMA}
+\alias{ilmMAQCsubR}
 \alias{afxsub}
 \alias{MAQCsubset}
 \title{Experimental Data Package: MAQCsubset}
@@ -24,6 +25,10 @@ data(afxsub)
 \note{\code{afxsubRMA} is an \code{exprSet} (deprecated)
 and \code{afxsub} is an \code{AffyBatch}.  \code{afxsubRMAES}
 is a proper ExpressionSet instance.
+
+ilmMAQCsubR is the result of applying lumiR to the files
+in the vicinity of GEO GSM122901 with filename suffixes matching
+those of the sampleNames in the set.
 }
 
 \examples{
