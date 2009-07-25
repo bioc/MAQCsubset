@@ -1,10 +1,10 @@
 Package: MAQCsubset
 Title: Experimental Data Package: MAQCsubset
-Version: 1.0.14
+Version: 1.0.15
 Author: VJ Carey
 Description: Data Package automatically created on Sun Nov 19 15:59:29 2006.
 Maintainer: VJ Carey <stvjc@channing.harvard.edu>
-Depends: Biobase, methods
+Depends: affy (>= 1.23.4), Biobase (>= 2.5.5), lumi, methods
 Suggests: genefilter
 License:  The Artistic License, Version 2.0
 biocViews: ExperimentData
