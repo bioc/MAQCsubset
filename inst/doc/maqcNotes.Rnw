@@ -130,10 +130,10 @@ NN2 = proboscis(afxsubRMAES, site=2)
 NN3 = proboscis(afxsubRMAES, site=3)
 @
 There are simple graphical methods:
-<<fig=TRUE>>=
+<<dopl,fig=TRUE>>=
 plot(NN1, lwd=2)
-lines(NN2, col="green", lwd=2)
-lines(NN3, col="blue", lwd=2)
+lines(NN2[[1]], NN2[[2]], col="green", lwd=2)
+lines(NN3[[1]], NN3[[2]], col="blue", lwd=2)
 legend(-2.5, .9, lty=1, lwd=2, legend=c("site 1",
  "site 2", "site 3"), col=c("black", "green", "blue"))
 
