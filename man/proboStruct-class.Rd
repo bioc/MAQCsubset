@@ -3,6 +3,7 @@
 \alias{proboStruct-class}
 \alias{lines,proboStruct-method}
 \alias{plot,proboStruct-method}
+\alias{plot,proboStruct,ANY-method}
 \alias{show,proboStruct-method}
 
 \title{Class "proboStruct" }
